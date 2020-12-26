@@ -1,4 +1,4 @@
-APPNAME=inflation
+APPNAME=spinglass
 PYTHONVERSION=3.6.9
 
 help:
